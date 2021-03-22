@@ -35,7 +35,7 @@ Om eg skal plukke fram eitt konkret minne frå tidleg alder ser eg til skulefrit
 
 ![Star Wa](./star-wa.jpg)
 
-STAR WA
+*STAR WA*
 
 Fordi dette trass alt var ein god, sosialdemokratisk skulefritidsordning vart teikninga sjølvsagt likevel hengt opp på veggen. Nokre dagar seinare hadde ein av dei to år yngre ungane teikna av min Darth Vader, utan å vite kva «Star Wars» var, og i det uvitande plagiatets namn var også han betitla med «STAR WA».
 
