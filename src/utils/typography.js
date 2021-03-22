@@ -15,7 +15,7 @@ const typography = new Typography({
   baseFontSize: '16px',
   baseLineHeight: 1.75,
   headerFontFamily: ['Lora', 'sans-serif'],
-  headerWeight: bold,
+  headerWeight: 700,
   bodyFontFamily: ['Source Sans Pro', 'serif'],
   bodyGray: 50,
   scaleRatio: 2,
