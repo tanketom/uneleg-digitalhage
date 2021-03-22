@@ -13,9 +13,12 @@ delete Wordpress2016.googleFonts
 
 const typography = new Typography({
   baseFontSize: '16px',
-  baseLineHeight: '28px',
+  baseLineHeight: 1.75,
   headerFontFamily: ['Lora', 'sans-serif'],
+  headerWeight: bold,
   bodyFontFamily: ['Source Sans Pro', 'serif'],
+  bodyGray: 50,
+  scaleRatio: 2,
 })
 
 // Hot reload typography in development.
