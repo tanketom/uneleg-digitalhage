@@ -17,8 +17,8 @@ module.exports = {
           `source sans pro` // you can also specify font weights and styles
         ],
         display: 'swap'
-      }
-    }
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
