@@ -25,7 +25,7 @@ Seinare har eg både snakka og skrive mykje om favorittgalaksa mi. Om du googlar
 
 **Hjå Studentradioen sat eg i studio og snakka om 30-årsdagen til «Empire Strikes Back» medan eg eigentleg burde ha hatt eksamen i politisk økonomi. Her er eit slags bevis (sorry, mamma):**
 
-![SAMPOL213-eksamen](.polok-eksamen.png)
+![SAMPOL213-eksamen](./polok-eksamen.png)
 
 **Sjølv gifteringen min har eit «Star Wars»-sitat. Og kona mi veit no at det Darth Vader eigentleg seier er «No, _I_ am your father!».**
 
@@ -33,7 +33,7 @@ Og alt dette starta med noko eg ikkje har peiling på når skjedde. «Star Wars�
 
 Om eg skal plukke fram eitt konkret minne frå tidleg alder ser eg til skulefritidsordninga på Lærdalsøyri Ungdomsskule, der eg hadde teikna ein heilt kompetent Darth Vader (iallfall for mine rundt 8–9 år å rekne), og så eit mislukka forsøk på å etterape «Star Wars»-logoen, som i mitt tilfelle såg omtrent sånn ut:
 
-![Star Wa](.star-wa.jpg)
+![Star Wa](./star-wa.jpg)
 
 STAR WA
 
