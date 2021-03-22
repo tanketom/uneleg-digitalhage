@@ -36,7 +36,7 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Lora, sans-serif`,
             marginTop: 0,
-            marginBottom: rhythm(-1),
+            marginBottom: 0,
           }}
         >
           <Link
