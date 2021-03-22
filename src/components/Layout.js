@@ -64,7 +64,11 @@ class Layout extends React.Component {
         {header}
         {children}
         <footer>
-          Kortreist og heimespøta med <a href="https://www.gatsbyjs.org">Gatsby</a>
+          Kortreist og heimespøta med <a href="https://www.gatsbyjs.org">Gatsby</a>.
+          
+          Det er so uneleg og skygt 
+          i hagen, - nesten yverbygt 
+          av gullregn og kastanje.
         </footer>
       </div>
     )

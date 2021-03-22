@@ -28,11 +28,11 @@ function Bio() {
               }}
             />
             <p>
-              Andreas Hadsel Opsvik. Geriljaarkivar og klimakommunikatør, vonlaust forelska i internett.
+              Dette er den digitale hagen til Andreas Hadsel Opsvik – Geriljaarkivar og klimakommunikatør, vonlaust forelska i internett.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Du kan følgje meg på Twitter
-              </a>
+              </a>.
             </p>
           </div>
         )
