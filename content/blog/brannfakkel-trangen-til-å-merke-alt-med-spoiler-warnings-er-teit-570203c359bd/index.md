@@ -1,9 +1,10 @@
 ---
 title: 'Trangen til å merke alt med spoiler warnings er teit'
 date: '2016-04-16T00:00:00Z'
+tags: ['framside', 'anmelderi']
 ---
 
-![[1_scZZmgW4_qyhBAXd5cSPZQ.png]]
+![Darth Vader likar heller ikkje spoilers](1_scZZmgW4_qyhBAXd5cSPZQ.png)
 
 Den moderne spoilerfrykta er det mest hypokonderiske internettet nokosinne har tilført popkulturen.
 

@@ -3,6 +3,7 @@ import { Link, graphql } from 'gatsby'
 
 import Bio from '../components/Bio'
 import Layout from '../components/Layout'
+import TopMeny from '../components/TopMeny'
 import SEO from '../components/seo'
 import { rhythm } from '../utils/typography'
 
@@ -18,6 +19,7 @@ class BlogIndex extends React.Component {
           title="Framsida"
           keywords={[]}
         />
+        <TopMeny />
         <Bio />
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
@@ -52,7 +54,10 @@ export const pageQuery = graphql`
         title
       }
     }
-    allMdx(sort: { fields: [frontmatter___date], order: DESC }) {
+    allMdx(
+    	limit: 5
+    	sort: { fields: [frontmatter___date], order: DESC }
+    	) {
       edges {
         node {
           excerpt
