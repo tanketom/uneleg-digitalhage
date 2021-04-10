@@ -1,6 +1,6 @@
 ---
 title: 'Knausgårdminions'
-date: '2016-08-29T15:03:18Z'
+date: '2016-11-28T15:03:18Z'
 tags: ['framside', 'internett']
 ---
 

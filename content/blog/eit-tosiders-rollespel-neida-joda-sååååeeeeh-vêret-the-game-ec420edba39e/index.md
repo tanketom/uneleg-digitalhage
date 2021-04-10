@@ -1,5 +1,5 @@
 ---
-title: '# Eit tosiders rollespel: «Neida, Joda, Sååååeeeeh, Vêret?»: The Game'
+title: 'Eit tosiders rollespel: «Neida, Joda, Sååååeeeeh, Vêret?»: The Game'
 date: '2016-11-28T15:03:18Z'
 tags: ['framside', 'rollespel']
 ---

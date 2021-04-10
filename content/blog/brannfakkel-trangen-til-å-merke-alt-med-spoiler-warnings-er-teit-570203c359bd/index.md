@@ -1,5 +1,5 @@
 ---
-title: 'Trangen til å merke alt med spoiler warnings er teit'
+title: 'Brannfakkel: Trangen til å merke alt med spoiler warnings er teit'
 date: '2016-04-16T00:00:00Z'
 tags: ['framside', 'anmelderi']
 ---
