@@ -1,6 +1,6 @@
 ---
-title: 'Star Wars: ei kort historie om min popkulturelle konstant'
-date: '2021-03-22T15:03:18Z'
+title: 'Star Wars - ei kort historie om min popkulturelle konstant'
+date: '2015-10-16T15:03:18Z'
 ---
 
 «Star Wars» er blant få ting som eg omtrent alltid kan hugse at har vore i livet mitt. Eg veit ikkje når minnet om Darth Vader først dukka opp som eit frø i fantasien min, men det må ha vore alt nokre år før eg faktisk såg nokre av filmane.

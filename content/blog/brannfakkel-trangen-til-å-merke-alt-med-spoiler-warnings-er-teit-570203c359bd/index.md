@@ -1,5 +1,5 @@
 ---
-title: 'Brannfakkel: Trangen til å merke alt med spoiler warnings er teit'
+title: 'Trangen til å merke alt med spoiler warnings er teit'
 date: '{{date:2016-04-16}}T{{time:00:00:00}}Z'
 ---
 
