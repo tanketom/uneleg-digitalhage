@@ -4,7 +4,7 @@ import Image from 'gatsby-image'
 
 import { rhythm } from '../utils/typography'
 
-function Bio() {
+function TopMeny() {
   return (
     <StaticQuery
       query={TopMenyQuery}
